@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Datenschutzerklärung | Flowly App</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 40px 20px;
+      font-family: 'Inter', sans-serif;
+      background: #0d1117;
+      color: #e6edf3;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+      color: #58a6ff;
+    }
+    h2 {
+      color: #79c0ff;
+      margin-top: 30px;
+    }
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Datenschutzerklärung für die Flowly App</h1>
+
+  <p>Der Schutz deiner Daten ist uns sehr wichtig. Diese App erfasst nur die notwendigsten Informationen, um dir ein motivierendes Erlebnis zu bieten.</p>
+
+  <h2>Welche Daten werden erfasst?</h2>
+  <ul>
+    <li>Dein Vorname</li>
+    <li>Deine Herkunft (z. B. Stadt oder Land)</li>
+  </ul>
+  <p>Diese Angaben dienen ausschließlich zur Personalisierung deines Nutzerprofils innerhalb der App.</p>
+
+  <h2>Keine Weitergabe von Daten</h2>
+  <p>Es werden keine personenbezogenen Daten an Dritte weitergegeben. Es findet kein Tracking, keine Werbung und keine externe Analyse statt.</p>
+
+  <h2>Keine Anmeldung erforderlich</h2>
+  <p>Du musst kein Konto erstellen. Alle Daten werden lokal auf deinem Gerät gespeichert und sind jederzeit löschbar.</p>
+
+  <h2>Kontakt</h2>
+  <p>Bei Fragen zum Datenschutz kannst du uns unter folgender Adresse erreichen:</p>
+  <p><a href="mailto:support@flowly.de">support@flowly.de</a></p>
+
+  <p>Stand: Mai 2025</p>
+</body>
+</html>
